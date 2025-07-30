@@ -26,7 +26,7 @@ BackgroundJobs/
 
 - [.NET 7](https://dotnet.microsoft.com/)
 - C#
-- Worker Services ou Hosted Services
+- Worker Services
 - Dependência de injeção
 
 ## ⚙️ Como Executar Localmente
